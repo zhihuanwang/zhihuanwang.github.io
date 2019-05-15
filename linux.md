@@ -1,6 +1,6 @@
 ---
 title: Linux
-hljs_languages: [makefile]
+category: CLI
 layout: 2017/sheet
 ---
 
