@@ -1,0 +1,47 @@
+home:
+  title: "开发者速查表"
+  tagline: |
+    本<strong>速查表（cheatsheets）</strong>由 <a href='https://ricostacruz.com' target='_blank'>@rstacruz</a> 创建，简体中文由 <a href='http://justjavac.com' target='_blank'>@justjavac</a> 翻译
+
+top_nav:
+  title: CheatSheets
+  edit: 编辑
+  edit_on_github: 在 GitHub 上编辑本页面
+
+sheet:
+  suffix: 速查表
+
+social_list:
+  default_description: "Ridiculous collection of web development cheatsheets"
+  description: "The ultimate cheatsheet for TITLE."
+  facebook_share: Share on Facebook
+  twitter_share: Share on Twitter
+
+related_posts_callout:
+  description: 超过 SIZE 个速查表, 专为开发者准备。
+  link: 网站首页
+
+related_posts_group:
+  top: 热门速查表
+  other: 其它速查表
+  category: 其它 CATEGORY 速查表
+
+search_form:
+  default_placeholder: 搜索 SIZE+ 个速查表
+  home_placeholder: 搜索...
+  prefix: devhints.cn
+
+comments_area:
+  suffix: 该速查表目前
+  link: "立即评论!"
+
+not_found:
+  title: 页面未找到
+  description: 抱歉，我们未能为您找到需要的速查表！
+  home: 返回速查表首页
+
+announcement:
+  id: 2017-09-25-devhints-io
+  title: 中文版上线 🎉
+  body: |
+    开发者速查表 devhints.io 中文版正式上线！如果您也想参与翻译，可以在 github 上提交 pull request。
