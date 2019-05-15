@@ -1,5 +1,7 @@
 ---
 title: Linux
+hljs_languages: [makefile]
+layout: 2017/sheet
 ---
 
 ### Mounting a RAM drive
